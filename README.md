@@ -1,0 +1,2 @@
+# InceptionTime_Pytorch
+InceptionTime算法的pytorch实现,Pytorch implementation of InceptionTime algorithm
